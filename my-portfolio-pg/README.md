@@ -27,11 +27,12 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _Any known issues_
+* Photo of myself won't display, because '.HEIC' is unsupported by HTML or something else. (Caption is unaffected, apart from the 
+missing photo icon.)
 * _should go here_
 
 ## License
 
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) 8/5/2022. Samuel Majerus. 
