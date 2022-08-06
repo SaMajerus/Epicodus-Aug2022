@@ -1,22 +1,47 @@
-h1 {
+body {
+  text-align: left;
+
+}
 
 
+body.my-name-and-img { 
+  text-align: center; 
 } 
 
 
+body.h1 {  
+  font-size: 36pt;
+  font-weight: bold; 
+  text-decoration: underline; 
+  color: darkgray;
+} 
 
-p {
 
+body.img{
+  margin: auto; 
+}
+
+
+.post-AST2 {
+  text-indent: 5cm; 
+  font-size: 10pt; 
 
 }
 
+
+p {
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 14pt; 
+} 
 
 
 h2 {
+  text-decoration: underline; 
+} 
 
-
+.Epicodus-projects-list.p {
+  font-size: 8pt;
 }
-
 
 
 h3 {
@@ -25,40 +50,27 @@ h3 {
 } 
 
 
-
 h4 {
 
 
 } 
 
 
+h5 {
+
+
+}
+
 
 a {
-
-
-} 
-
-
-
-img {
-
-
+  color: blue; 
 
 } 
 
 
-
-div {
-
-
-} 
-
-
-
-span {
-
+.prog-lang-lgd {
+  font-style: italic; 
 
 } 
-
 
 
